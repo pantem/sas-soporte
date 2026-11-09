@@ -33,5 +33,11 @@ Si eres inspector de campo o administrador del sistema y necesitas consultar la 
 
 ---
 
+## 📚 Aviso de Privacidad
+
+👉 **[Consultar el Aviso de privacidad](./aviso_de_privacidad)** *(o `./aviso` según el nombre de tu archivo)*
+
+---
+
 ### 📱 Disponible para iOS y Android
 *Desarrollado para brindar respuesta técnica inmediata ante emergencias sísmicas.*
